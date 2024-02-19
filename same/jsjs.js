@@ -62,7 +62,9 @@
     }
 
 
-
+    function sayhello(){
+        console.log("hello");
+    }
     function login(){
         window.location.href="file:///C:/Users/aayus/OneDrive/Desktop/MERN/Project_00/codeQ/same/index2.html"
 
